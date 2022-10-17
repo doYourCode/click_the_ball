@@ -1,2 +1,2 @@
 # click_the_ball
- Implementation of a very simple click the ball game in C using the OpenGL library,
+Implementation of a very simple "click the ball" game using pure C and the OpenGL library. This project was first implemented as part of programming classes activities in 2017, when I was teaching at IFRJ, Rio de Janeiro, Brazil. The original program was a simple structured implementation to show how to do simple graphics and player interactions, after some iteration it became quite a flexible, robust and data driven implementation, used also to teach some other programming concepts like code organization, data handling and abstraction. The goal is to develop the project even further in future classes and with the participation of students.
